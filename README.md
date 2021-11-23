@@ -28,4 +28,4 @@ make clean install
 
 ## Running slock
 
-Simply invoke the 'slock' command. To get out of it, enter your password.
+Simply invoke the `slock` command. To get out of it, enter your password.
