@@ -1,6 +1,6 @@
 # slock - simple screen locker
 
-slock is a simple screen locker utility for X. This fork has the following patches applied by default, check [st.suckless.org](https://tools.suckless.org/dmenu/) for more info.
+slock is a simple screen locker utility for X. This fork has the following patches applied by default, check [tools.suckless.org/slock](https://tools.suckless.org/slock/) for more info.
 
 - [blured or pixelated screenshot](https://tools.suckless.org/slock/patches/blur-pixelated-screen/)
 
